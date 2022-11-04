@@ -15,7 +15,7 @@
 ## 🧱 Setup
 **([Node.js](https://nodejs.org/en/download/) is required.)**
 1. Download [this branch](https://github.com/Oural1206/WebPConverter/archive/refs/heads/master.zip)
-2. Open your terminal and type :
+2. Open your terminal and type *(at the project path)* :
 ```sh-session
 npm install
     or
