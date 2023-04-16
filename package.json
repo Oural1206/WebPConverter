@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "run": "node index.mjs"
-  }
+  },
   "dependencies": {
     "imagemin": "^8.0.1",
     "imagemin-webp": "^7.0.0"
